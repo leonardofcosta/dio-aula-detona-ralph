@@ -1,20 +1,22 @@
 # Curso DIO - Aula: Jogo Detona Ralph.
 
-### Lab Project realizado! 
+### Lab Project realizado!
 
 Ele é referente ao curso [Ri Happy - Front-end do Zero](https://web.dio.me/track/coding-future-front-end-do-zero) oferecido pela Digital Innovation One (DIO).
 
 ### Tópico: Desenvolvendo suas Primeiras Páginas com HTML e CSS.
 
-**Lab Project**
+**Lab Project:**
 
 * Criando um jogo do Detona Ralph com javaScript.
-
-Foi utilizado HTML, CSS e Javascript.
+* Foi utilizado HTML, CSS e Javascript.
 
 **Para executar o jogo:**
+
 1. Baixe o repositório;
 2. Execute o arquivo index.html no seu navegador, o jogo será iniciado.
+
+Outra forma de acessar o jogo sem realizar o procedimento acima é através do link [Detona Ralph](https://leonardofcosta.github.io/dio-aula-detona-ralph/).
 
 **Como jogar:**
 * Clique na imagem do Ralph para pontuar;
